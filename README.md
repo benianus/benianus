@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ... Mobile Development on Android Native 
+ 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6495b934d99c9d67319056dc?variant=dark" alt="roadmap.sh"/></a>
