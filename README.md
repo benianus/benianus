@@ -18,6 +18,8 @@ Here are some ideas to get you started:
  
 [![roadmap.sh](https://roadmap.sh/card/wide/6495b934d99c9d67319056dc?variant=dark)](https://roadmap.sh)
 
-Stack:
+- Skills:
 
-![image](https://github.com/user-attachments/assets/26ab2434-490c-4be1-9fdd-bbd811a868c1)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,kotlin)](https://skillicons.dev)
+
+
