@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Mobile Development on Android Native 
  
 [![roadmap.sh](https://roadmap.sh/card/wide/6495b934d99c9d67319056dc?variant=dark)](https://roadmap.sh)
+
+Stack:
+
+![image](https://github.com/user-attachments/assets/26ab2434-490c-4be1-9fdd-bbd811a868c1)
