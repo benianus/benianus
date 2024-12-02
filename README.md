@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently learning Mobile Development<br>🎯 Goals: .. Software engineer, Indie Developer</p>
+<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently learning Android Mobile Development<br>🎯 Goals: .. Software engineer, Indie Developer</p>
 
 ###
 
