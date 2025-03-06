@@ -21,7 +21,7 @@
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img src="https://skillicons.dev/icons?i=dotnet,cpp,cs,html,css,bootstrap,tailwind,vscode,visualstudio,git,github,blender" height="40"  alt="web"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cpp,cs,html,css,js,bootstrap,tailwind,vscode,visualstudio,git,github,blender" height="40"  alt="web"/>
   <img width="12" />
 </div>
 
