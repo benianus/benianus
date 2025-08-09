@@ -20,7 +20,7 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  /> -->
   <img src="https://skillicons.dev/icons?i=mysql,cpp,php,laravel,html,css,js,nodejs,bootstrap,tailwind,vscode,visualstudio,git,github,blender" height="40"  alt="web"/>
   <img width="12" />
 </div>
