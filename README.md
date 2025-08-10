@@ -20,7 +20,7 @@
 
 <div align="left" >
   <p>Database:</p> 
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"  alt="web"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40"  alt="web"/>
   <p>Backend:</p>
   <img src="https://skillicons.dev/icons?i=cpp,php,laravel" height="40"  alt="web"/>
   <p>Frontend:</p>
@@ -39,10 +39,13 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/benianus" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="telegram logo"  />  
   </a>
   <a href="https://t.me/benianus3d" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="beniane39@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
