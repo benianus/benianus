@@ -29,6 +29,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="40"  alt="web"/>
   <p>Version Control:</p>
   <img src="https://skillicons.dev/icons?i=git,github" height="40"  alt="web"/>
+  <p>Tools:</p>
+  <img src="https://skillicons.dev/icons?i=notion,obsidian,blender" height="40"  alt="web"/>
 </div>
 
 ###
