@@ -44,7 +44,7 @@
   <a href="https://t.me/benianus3d" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="beniane39@gmail.com" target="_blank">
+  <a href="mailto:beniane39@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
