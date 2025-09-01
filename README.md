@@ -22,7 +22,7 @@
   <p>Database:</p> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,sqlite" height="40"  alt="web"/>
   <p>Backend:</p>
-  <img src="https://skillicons.dev/icons?i=cpp,php,laravel" height="40"  alt="web"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,php,laravel,dotnet" height="40"  alt="web"/>
   <p>Frontend:</p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,mui" height="40"  alt="web"/>
   <p>IDEs:</p>
