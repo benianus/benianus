@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently learning ... React.js <br>🎯 <strong>function</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "SaaS or Mobile app") => { <b>return</b> make money}</p>
+<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently learning ... Next.js <br>🎯 <strong>function</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "SaaS or Mobile app") => { <b>return</b> make money}</p>
 
 ###
 
