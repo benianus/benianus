@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently learning ... Next.js <br>🎯 <strong>function</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "SaaS or Mobile app") => { <b>return</b> make money}</p>
+<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently learning ... Making Projects <br>🎯 <strong>function</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "SaaS or Mobile app") => { <b>return</b> make money}</p>
 
 ###
 
@@ -24,7 +24,7 @@
   <p>Backend:</p>
   <img src="https://skillicons.dev/icons?i=cpp,php,laravel" height="40"  alt="web"/>
   <p>Frontend:</p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next" height="40"  alt="web"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react" height="40"  alt="web"/>
   <p>IDEs:</p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="40"  alt="web"/>
   <p>Version Control:</p>
