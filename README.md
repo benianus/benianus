@@ -20,7 +20,7 @@
 
 <div align="left" >
   <p>Database:</p> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,mongodb" height="40"  alt="web"/>
   <p>Backend:</p>
   <img src="https://skillicons.dev/icons?i=cpp,php,laravel,nodejs,express" height="40"  alt="web"/>
   <p>Frontend:</p>
