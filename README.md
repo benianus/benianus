@@ -24,7 +24,7 @@
   <p>Backend:</p>
   <img src="https://skillicons.dev/icons?i=cpp,php,laravel" height="40"  alt="web"/>
   <p>Frontend:</p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,vue" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,reactnative" height="40"  alt="web"/>
   <p>IDEs:</p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="40"  alt="web"/>
   <p>Version Control:</p>
