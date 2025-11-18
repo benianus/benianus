@@ -19,7 +19,7 @@
 ###
 
 <div align="left" >
-  <p>Database:</p> 
+  <p>Databases:</p> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,datagrip" height="40"  alt="web"/>
   <p>Backend:</p>
   <img src="https://skillicons.dev/icons?i=cpp,php,laravel" height="40"  alt="web"/>
