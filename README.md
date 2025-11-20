@@ -22,7 +22,7 @@
   <p>Programming languages:</p> 
   <img src="https://skillicons.dev/icons?i=cpp" height="40"  alt="web"/>
   <p>Databases:</p> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,datagrip" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" height="40"  alt="web"/>
   <p>Backend:</p>
   <img src="https://skillicons.dev/icons?i=php,laravel" height="40"  alt="web"/>
   <p>Frontend:</p>
