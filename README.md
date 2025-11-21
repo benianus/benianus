@@ -19,20 +19,10 @@
 ###
 
 <div align="left" >
-  <p>Programming languages:</p> 
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"  alt="web"/>
-  <p>Databases:</p> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" height="40"  alt="web"/>
-  <p>Backend:</p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" height="40"  alt="web"/>
-  <p>Frontend:</p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter" height="40"  alt="web"/>
-  <p>IDEs:</p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio" height="40"  alt="web"/>
-  <p>Version Control:</p>
-  <img src="https://skillicons.dev/icons?i=git,github" height="40"  alt="web"/>
+  <p>Tech stack:</p> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,cpp,kotlin,android" height="40"  alt="web"/>
   <p>Tools:</p>
-  <img src="https://skillicons.dev/icons?i=notion,obsidian,blender" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,git,github" height="40"  alt="web"/>
 </div>
 
 ###
