@@ -19,10 +19,8 @@
 ###
 
 <div align="left" >
-  <p>Tech stack:</p> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,cpp,kotlin,android" height="40"  alt="web"/>
-  <p>Tools:</p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,git,github" height="40"  alt="web"/>
+  <p>Languages & Tools:</p> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,cpp,kotlin,android,vscode,androidstudio,git,github" height="40"  alt="web"/>
 </div>
 
 ###
