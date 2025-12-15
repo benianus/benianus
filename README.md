@@ -20,7 +20,7 @@
 
 <div align="left" >
   <p>Languages & Tools:</p> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,spring,kotlin,ktor,jetpackcompose,android,vscode,androidstudio,git,github" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,kotlin,ktor,jetpackcompose,android,androidstudio,git,github" height="40"  alt="web"/>
 </div>
 
 ###
