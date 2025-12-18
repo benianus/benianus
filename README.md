@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently ... Making Projects <br>🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app") => { <b>return</b> make money}</p>
+<p align="left">✨ Start learning Code since 2023<br>📚 I'm currently ... Learning Android Development <br>
+🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app") => { <b>return</b> make money}</p>
 
 ###
 
