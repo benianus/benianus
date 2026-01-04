@@ -22,7 +22,7 @@
 <div align="left" >
   <p>Languages & Tools:</p> 
 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,kotlin,postgresql,ktor,jetpackcompose,android,androidstudio,idea,git,github" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,postgresql,java,spring,kotlin,ktor,jetpackcompose,android,androidstudio,idea,git,github" height="40"  alt="web"/>
   <img src="https://developer.android.com/static/images/picto-icons/kmp.svg" alt="kotlin multiplatform" height="35"/>
   <img  height="40" alt="image" src="https://github.com/user-attachments/assets/10e8af56-1a13-4691-a8ef-6406ccbd269d" />
 
