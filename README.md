@@ -11,6 +11,7 @@
 ###
 
 <p align="left">✨ Start learning Code since 2023<br>📚 I learned Programming Basic with C++ (programming, functional, oop, data structures, algorithms, memory management ...) 
+  <br>📚 Database design & manipulation from system requirement analysis
   <br>📚 I'm currently ... Learning Android Development with Kotlin and the ecosystem around it <br>
 🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app") => { <b>return</b> make money}</p>
 
