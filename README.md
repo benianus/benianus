@@ -22,7 +22,7 @@
 ###
 
 <div align="left" >
-  <p>Languages & Tools:</p> 
+  <p>Tech stack:</p> 
 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,kotlin,postgresql,spring,ktor,jetpackcompose,android,androidstudio,idea,git,github" height="40"  alt="web"/>
   <img src="https://developer.android.com/static/images/picto-icons/kmp.svg" alt="kotlin multiplatform" height="35"/>
