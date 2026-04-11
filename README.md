@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Start learning Code since 2023<br>📚 I learned Programming Basic with C++ (programming, functional, oop, data structures, algorithms, memory management ...) 
-  <br>📚 Database design & manipulation from system requirement analysis <br>
+  <br>📚 Database design & system requirement analysis <br>
 🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app or Saas"): Make => { <b>return</b> Make(money)}</p>
 
 ###
