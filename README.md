@@ -11,9 +11,8 @@
 ###
 
 <p align="left">✨ Start learning Code since 2023<br>📚 I learned Programming Basic with C++ (programming, functional, oop, data structures, algorithms, memory management ...) 
-  <br>📚 Database design & manipulation from system requirement analysis
-  <br>📚 I'm currently ... Learning Android Development with Kotlin and the ecosystem around it <br>
-🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app"): Make => { <b>return</b> Make(money)}</p>
+  <br>📚 Database design & manipulation from system requirement analysis <br>
+🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app or Saas"): Make => { <b>return</b> Make(money)}</p>
 
 ###
 
@@ -24,7 +23,7 @@
 <div align="left" >
   <p>Tech stack:</p> 
 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,kotlin,postgresql,ktor,android,jetpackcompose,androidstudio,idea,git,github" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,cpp,cs,dotnet,html,css,javascript,typescript,angular,rider,webstorm,git,github" height="40"  alt="web"/>
 
 </div>
 
