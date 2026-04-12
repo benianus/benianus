@@ -23,7 +23,7 @@
 <div align="left" >
   <p>Tech stack:</p> 
 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,cpp,cs,dotnet,html,css,javascript,typescript,angular,rider,webstorm,git,github" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,cpp,kotlin,ktor,android,androidstudio,idea,git,github" height="40"  alt="web"/>
 
 </div>
 
