@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Start learning Code since 2023<br>📚 I learned Programming Basic with C++ (programming, functional, oop, data structures, algorithms, memory management ...) 
+<p align="left">✨ Start learning Code since 2023<br>📚 I learned Programming Basics with C++ (functional programming, OOP, data structures, algorithms, memory management ...) 
   <br>📚 Database design & system requirement analysis <br>
 🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app or Saas"): Make => { <b>return</b> Make(money)}</p>
 
@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display:flex; flex-direction:row;">
   <a href="https://linkedin.com/in/benianus" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="telegram logo"  />  
   </a>
