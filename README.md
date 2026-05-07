@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Start learning Code since 2023<br>📚 I learned Programming Basics with C++ (functional programming, OOP, data structures, algorithms, memory management ...) 
+<p align="left">✨ Start learning Code since March 2023<br>📚 I learned Programming Basics with C++ (functional programming, OOP, data structures, algorithms, memory management ...) 
   <br>📚 Database design & system requirement analysis <br>
 🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app or Saas"): Make => { <b>return</b> Make(money)}</p>
 
