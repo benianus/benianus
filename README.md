@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Start learning Code since March 2023<br>📚 I learned Programming Basics with C++ (functional programming, OOP, data structures, algorithms, memory management ...) 
+<p align="left">✨ Start learning Code since March 2023<br>📚 I learned Programming Basics with C++ (functional programming, OOP, data structures, algorithms, Problem solving, memory management ...) 
   <br>📚 Database design & system requirement analysis <br>
 🎯 <strong>fun</strong> Goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app or Saas"): Make => { <b>return</b> Make(money)}</p>
 
@@ -21,9 +21,9 @@
 ###
 
 <div align="left" >
-  <p>Tech stack:</p> 
+  <p>Programming languages:</p> 
 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,cpp,kotlin,ktor,android,jetpackcompose,androidstudio,rider,idea,git,github" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,kotlin" height="40"  alt="web"/>
 
 </div>
 
