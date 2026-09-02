@@ -30,7 +30,7 @@
 
 <div align="left" >
   <p>Programming languages:</p> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,kotlin" height="40"  alt="web"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,kotlin" height="40"  alt="web"/>
 </div>
 
 ###
