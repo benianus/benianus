@@ -10,16 +10,26 @@
 
 ###
 
-<p align="left">✨ Start learning Code since March 2023<br>📚 I learned Programming Basics with C++:</p>
+<p align="left">✨ Start learning Code since March 2023</p>
+<p>📚 I learned Programming Basics with C++:</p>
 <ul>
+  <li>Programming</li>
   <li>Algorithms</li>
-  <li>Data structures</li>
-  <li>Problem solving</li>
-  <li>Functional programming</li>
-  <li>Object oriented programming</li>
-  <li>Memory management</li>
+  <li>Data Structures</li>
+  <li>Problems-Solving</li>
+  <li>Functional Programming</li>
+  <li>Object-Oriented Programming</li>
+  <li>Memory Management</li>
+  <li>Networking Basics</li>
+  <li>Computer Architecture Basics</li>
 </ul>
-<p>📚 Database design & system requirement analysis </p>
+<p>📚 Backend Principles:</p>
+<ul>
+  <li>Database & ORM</li>
+  <li>APIs</li>
+  <li>Security</li>
+</ul>
+<p>📚 System Requirement Analysis & Database design  </p>
 <p>🎯 <strong>fun</strong> goals(<strong>be:</strong> "Architect, Software engineer, Freelance & Indie Developer", <strong>create:</strong> "Mobile app or Saas"): Make => { <b>return</b> make(money)}</p>
 
 ###
